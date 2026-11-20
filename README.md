@@ -1,6 +1,6 @@
 # 🕵️ Fake Review Detection Using Machine Learning and NLP
 
-![Python](https://img.shields.io/badge/Python-Machine_Learning-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Numpy,Pandas-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--learn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Text_Analysis-purple?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react&logoColor=white)
